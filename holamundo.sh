@@ -6,8 +6,9 @@
 # Para imprimir algo en pantalla se usa el comando echo 
 
 echo hola mundo
-echo  hola daniel como va todo  con github
+echo  hola daniel ya estas listo para entrar a trabajo
+
 #ok voy a tratar de arreglar mi error porque no se esta actualizando
 
-echo actualizando archivos
+echo actualizando datos
 
