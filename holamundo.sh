@@ -7,7 +7,5 @@
 
 echo hola mundo
 
-#Este es mi primer programa hola mundo en bash y lo voy a guardar en github
+#ok voy a tratar de arreglar mi error porque no se esta actualizando
 
-#Ahora  estamos modificando el archivo que clonamos de git hub 
-#mas adelante pondre mi commit
