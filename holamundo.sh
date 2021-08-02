@@ -9,3 +9,5 @@ echo hola mundo
 
 #Este es mi primer programa hola mundo en bash y lo voy a guardar en github
 
+#Ahora  estamos modificando el archivo que clonamos de git hub 
+#mas adelante pondre mi commit
